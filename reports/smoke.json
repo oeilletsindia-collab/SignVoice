@@ -1,0 +1,21 @@
+{
+  "kind": "synthetic engineering smoke check; not real ISL training",
+  "input_shape": [
+    1,
+    12,
+    376
+  ],
+  "forward_shape": [
+    1,
+    4,
+    7
+  ],
+  "initial_loss": 1.9406332969665527,
+  "final_loss": 0.0017208080971613526,
+  "checkpoint": "models/smoke.pt",
+  "generated_shape": [
+    1,
+    4
+  ],
+  "real_aligned_samples_loaded": 0
+}

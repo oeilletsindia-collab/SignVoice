@@ -1,0 +1,5 @@
+Python 3.11.17 is already installed
+Resolved 112 packages in 2.71s
+Checked 112 packages in 1ms
+Checked 112 packages in 1ms
+All installed packages are compatible

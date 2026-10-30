@@ -1,0 +1,18 @@
+{
+  "environment": "Python 3.11.17; Linux CPU",
+  "packages": {
+    "torch": "2.6.0+cpu",
+    "mediapipe": "0.10.21",
+    "gradio": "5.49.1",
+    "numpy": "1.26.4"
+  },
+  "automated_tests": "17 passed; temporary synthetic fixtures and mocked speech explicitly separated from research evaluation",
+  "notebook": "All code cells parse; notebook not executed in Google Colab",
+  "browser": "Real HTTP/browser checks passed; no physical webcam test",
+  "real_data_training": "Blocked; zero real aligned video samples loaded",
+  "speech": "Real gTTS request failed; credential-free host request confirmed proxy 403",
+  "dataset": "HF and Kaggle requests denied by proxy 403; official GitHub annotations inspected",
+  "checkpoints": "models/smoke.pt saved/reloaded; application rejects synthetic artifact",
+  "research_metrics": "Not measured",
+  "setup_script": "Executed successfully against locked CPU environment"
+}

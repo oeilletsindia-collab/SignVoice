@@ -1,0 +1,12 @@
+.venv/
+__pycache__/
+.pytest_cache/
+*.pyc
+data/
+models/*.pt
+models/*.pth
+outputs/
+*.mp4
+*.avi
+*.mov
+*.mp3

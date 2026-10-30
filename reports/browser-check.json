@@ -1,0 +1,1 @@
+{"status": "passed", "checks": ["app HTTP response", "upload tab", "webcam recording tab", "honest missing-checkpoint state"], "limitations": ["No real camera used", "No trained translation tested"], "screenshots": "assets/screenshots"}

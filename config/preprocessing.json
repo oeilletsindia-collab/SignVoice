@@ -1,0 +1,14 @@
+{
+  "schema": "signvoice-holistic94-v1",
+  "extractor": "mediapipe.solutions.holistic",
+  "mediapipe_version": "0.10.21",
+  "sample_fps": 12.0,
+  "max_frames": 192,
+  "max_seconds": 60,
+  "max_bytes": 209715200,
+  "min_detection_confidence": 0.5,
+  "visibility_threshold": 0.5,
+  "max_gap": 3,
+  "normalization": "shoulder-center-width-v1",
+  "feature_dim": 376
+}
